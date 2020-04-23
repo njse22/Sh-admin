@@ -41,7 +41,7 @@ show_maxfile(){
   # this funtion show the file with the maximun size in one directory	
   echo "type the name of your directory"
   read directory 
-  du -ah $directory | sort -n -r | head -n 10 
+  du -ah $directory | sort -n -r | head -n 1
 }
 
 show_memory(){
