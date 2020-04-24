@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#----------------------------------------------------------------------#
+# autor    : Nicolás Javier Salazar Echeverry 			       #
+# email    : nicolas.salazar1@correo.icesi.edu.co / njse22@gmail.com   #
+# telegram : t.me/njse22					       #
+#----------------------------------------------------------------------#
+
 ## COLORS 
 RED='\033[0;31m'    # Color Rojo
 GREEN='\033[0;32m'  # Color Verde
